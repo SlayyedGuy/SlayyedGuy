@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SlayyedGuy
-- 👀 I’m interested in Web Developing
-- 🌱 I’m currently learning Media Marketing
-- 💞️ I’m looking to collaborate on SMMA
-- 📫 How to reach me u/slayyedguy
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Dart
+- 💞️ I’m looking to collaborate on Nothing
+- 📫 How to reach me arnabbaruah.com/messageme
 
 <!---
 SlayyedGuy/SlayyedGuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
