@@ -1,10 +1,1 @@
-- 👋 Hi, I’m @SlayyedGuy
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Dart
-- 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me arnabbaruah.com/messageme
-
-<!---
-SlayyedGuy/SlayyedGuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+01001001 00100000 01000001 01101101 00100000 01000001 01110010 01101110 01100001 01100010 00100000 01000010 01100001 01110010 01110101 01100001 01101000
